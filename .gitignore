@@ -1,0 +1,9 @@
+# GitHub API Key —— 绝不进版本库
+github_token.txt
+*.token
+*_token.txt
+*_key.txt
+
+# Python
+__pycache__/
+*.pyc
